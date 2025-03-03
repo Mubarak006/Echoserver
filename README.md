@@ -42,7 +42,10 @@ with socket.create_connection((HOST, PORT)) as s:
 
 
 ## OUTPUT:
+
+ ![Screenshot (95)](https://github.com/user-attachments/assets/89cd8371-b30e-4f0c-8e7e-f2881d9be1f3)
 :![EH EX1](https://github.com/user-attachments/assets/1bdfb926-1b6d-4301-ae7e-f93357ae27ad)
+
 
 ## RESULT:
 
